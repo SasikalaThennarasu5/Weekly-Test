@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import './App.css'
-import Lightbox from './Components/LightBox';
-import ConfirmationDialog from './Components/ConfirmationDialog';
-import ModalPopup from './Components/ModelPopup';
-import Tooltip from './Components/ToolTip';
-import Task from './Components/Task'
+import Lightbox from './components/LightBox';
+import ConfirmationDialog from './components/ConfirmationDialog';
+import ModalPopup from './components/ModelPopup';
+import Tooltip from './components/ToolTip';
+import Task from './components/Task'
 
 const images = [
   'https://via.placeholder.com/300x200/007BFF/ffffff?text=Image+1',
