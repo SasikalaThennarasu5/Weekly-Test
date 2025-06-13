@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '../assets/Lightbox.css';
+import '../assets/LightBox.css';
 
 const Lightbox = ({ imageSrc, onClose }) => {
   return ReactDOM.createPortal(
